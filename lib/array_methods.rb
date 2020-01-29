@@ -8,7 +8,7 @@ end
 def using_sort(array)
   array.sort!
 end
-  puts using_sory(array)
+  puts using_sort(array)
 def using_reverse(array)
 
 end
