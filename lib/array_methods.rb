@@ -10,8 +10,10 @@ def using_sort(array)
 end
   puts using_sort(array)
 def using_reverse(array)
+  array.reverse
 
 end
+  puts using_reverse(array)
 
 def using_first(array)
 
